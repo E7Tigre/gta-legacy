@@ -5,8 +5,8 @@
   <meta name="theme-color" content="#111310">
   <meta name="description" content="Un archivo independiente de Grand Theft Auto: historia, tráilers, capturas oficiales y ediciones de coleccionista.">
   <title>GTA Legacy — The Grand Theft Auto Archive</title>
-  <link rel="stylesheet" href="css/style.css">
-  <script defer src="data/catalog.js"></script><script defer src="js/app.js"></script>
+  <link rel="stylesheet" href="css/style.css?v=fullscreen-fix-1">
+  <script defer src="data/catalog.js"></script><script defer src="js/app.js?v=fullscreen-fix-1"></script>
 </head>
 <body>
   <a href="#main" class="skip">Saltar al contenido</a>
@@ -18,7 +18,7 @@
   <main id="main" tabindex="-1"><div class="loading">Abriendo el archivo…</div></main>
   <footer><a class="footer-brand" href="#inicio">GTA LEGACY<span>1997 → 2026</span></a><p>Archivo independiente. No afiliado a Rockstar Games.<br>Grand Theft Auto y su material pertenecen a sus respectivos titulares.</p><a href="#archivo">Fuentes, cobertura y ajustes ↗</a></footer>
   <aside id="compare-bar" class="compare-bar" hidden aria-label="Ediciones seleccionadas"></aside>
-  <dialog id="detail" aria-labelledby="dialog-title"><button class="close" data-action="close" aria-label="Cerrar">×</button><div id="dialog-body"></div></dialog>
+  <dialog id="detail" aria-labelledby="dialog-title"><div id="viewer-shell"><button class="close" data-action="close" aria-label="Cerrar">×</button><div id="dialog-body"></div></div></dialog>
   <dialog id="search-dialog" aria-labelledby="search-title"><button class="close" data-action="close-search" aria-label="Cerrar búsqueda">×</button><h2 id="search-title">Explora el archivo.</h2><label class="search-field">Buscar juegos, vídeos, imágenes o ediciones<input id="global-search" type="search" placeholder="Vice City, coleccionista, Jason…" autocomplete="off"></label><div id="search-results" aria-live="polite"><p class="muted">Escribe para buscar en todas las colecciones.</p></div></dialog>
   <div id="toast" role="status" class="toast" hidden></div>
   <noscript>Activa JavaScript para explorar las colecciones interactivas. Los datos también están disponibles en la carpeta data.</noscript>

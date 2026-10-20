@@ -10,3 +10,9 @@
 .lightbox.expanded{width:100vw;height:100dvh;max-width:none;max-height:none;margin:0;border:0;border-radius:0}
 .lightbox.expanded .image-stage{height:calc(100dvh - 220px)}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+/* Only the image viewer, including its close button, enters native fullscreen. */
+#viewer-shell:fullscreen{box-sizing:border-box;width:100%;height:100%;padding:20px;background:var(--bg);color:var(--text);overflow:auto;scrollbar-width:thin}
+#viewer-shell:fullscreen::backdrop{background:var(--bg)}
+#viewer-shell:fullscreen .image-stage{height:calc(100dvh - 220px);min-height:180px}
+@media(max-width:600px){#viewer-shell:fullscreen{padding:15px}.lightbox.expanded .image-stage,#viewer-shell:fullscreen .image-stage{height:calc(100dvh - 280px);min-height:160px}}
