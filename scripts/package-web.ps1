@@ -7,7 +7,11 @@ $zipPath = Join-Path $projectRoot 'GTA_Legacy_Web.zip'
 $stream = [System.IO.File]::Open($zipPath, [System.IO.FileMode]::Create)
 $archive = [System.IO.Compression.ZipArchive]::new($stream, [System.IO.Compression.ZipArchiveMode]::Create)
 try {
-    $files = @('index.html', 'README.md', 'INFORME_COBERTURA.md') | ForEach-Object { Get-Item -LiteralPath (Join-Path $projectRoot $_) }
+    $files = @(Get-Item -LiteralPath (Join-Path $projectRoot 'index.html'))
+    foreach ($document in @('README.md', 'INFORME_COBERTURA.md')) {
+        $documentPath = Join-Path $projectRoot $document
+        if (Test-Path -LiteralPath $documentPath) { $files += Get-Item -LiteralPath $documentPath }
+    }
     foreach ($directory in @('css', 'js', 'assets')) {
         $files += Get-ChildItem -LiteralPath (Join-Path $projectRoot $directory) -File -Recurse
     }
