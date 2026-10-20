@@ -1,0 +1,607 @@
+[
+  {
+    "id": "double-pack",
+    "gameId": "gtaIII",
+    "name": "Grand Theft Auto: Double Pack",
+    "year": 2003,
+    "platforms": [
+      "PlayStation 2",
+      "Xbox"
+    ],
+    "region": "Norteamérica; anuncio de septiembre de 2003",
+    "format": "Física",
+    "contents": [
+      "Grand Theft Auto III",
+      "Grand Theft Auto: Vice City"
+    ],
+    "physical": [
+      "Discos de los dos juegos"
+    ],
+    "digital": [],
+    "differences": "Recopilación de dos títulos; no incluye San Andreas.",
+    "price": "No verificado",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/double-pack.jpg",
+    "sources": [
+      "https://ir.take2games.com/static-files/0afca1a1-1931-44cd-8b3c-d20fe7eae6f9"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://gtwfilesie-thumb.grandtheftwiki.com/Xboxart.jpg/500px-Xboxart.jpg",
+    "imageSource": "https://www.grandtheftwiki.com/Double_Pack",
+    "imageCaption": "Carátula de Double Pack para Xbox, Norteamérica; archivo de Grand Theft Wiki.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "sanandreas-special",
+    "gameId": "sanandreas",
+    "name": "Grand Theft Auto: San Andreas Special Edition",
+    "year": 2005,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "region": "Norteamérica",
+    "format": "Física",
+    "contents": [
+      "San Andreas",
+      "The Introduction",
+      "Sunday Driver"
+    ],
+    "physical": [
+      "Juego y contenido audiovisual en DVD"
+    ],
+    "digital": [],
+    "differences": "Añade una precuela audiovisual y un documental.",
+    "price": "No verificado",
+    "availability": "Lanzamiento anunciado para el 18 de octubre de 2005",
+    "image": "assets/editions/sanandreas-special.jpg",
+    "sources": [
+      "https://ir.take2games.com/static-files/1b76bf28-e29e-4b85-af66-058eaf856c00"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": true,
+    "imageOriginalUrl": "https://www.powerupgaming.ca/cdn/shop/products/53858_front.jpg?v=1729161070&width=871",
+    "imageSource": "https://www.powerupgaming.ca/products/ps2-gm-gtasaspcledt",
+    "imageCaption": "Carátula de Special Edition para PS2, Norteamérica. Escaneo conservado por Power Up Gaming; cotejado con GameFAQs.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "iv-standard",
+    "gameId": "gta4",
+    "name": "Grand Theft Auto IV — edición estándar",
+    "year": 2008,
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "Grand Theft Auto IV"
+    ],
+    "physical": [
+      "Juego en disco; otros insertos no verificados"
+    ],
+    "digital": [],
+    "differences": "Edición base de la primera publicación en consolas.",
+    "price": "No verificado",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/iv-standard.jpg",
+    "sources": [
+      "https://ir.take2games.com/static-files/9b73afd3-326d-4260-8429-30db4df679d7"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://www.gtabase.com/igallery/gta4-covers/gta-iv-cover-art-1920.jpg",
+    "imageSource": "https://www.gtabase.com/grand-theft-auto-iv/covers/",
+    "imageCaption": "Arte de portada de GTA IV; archivo de GTA Base.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "iv-special",
+    "gameId": "gta4",
+    "name": "Grand Theft Auto IV Special Edition",
+    "year": 2008,
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "Grand Theft Auto IV"
+    ],
+    "physical": [
+      "Caja de seguridad metálica",
+      "Libro de arte",
+      "CD de selección musical",
+      "Llavero Rockstar",
+      "Bolsa de viaje Rockstar"
+    ],
+    "digital": [],
+    "differences": "Presentación de coleccionismo con objetos físicos.",
+    "price": "89,99 USD · Norteamérica · precio anunciado en 2007",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/iv-special.jpg",
+    "sources": [
+      "https://ir.take2games.com/static-files/9b73afd3-326d-4260-8429-30db4df679d7",
+      "https://www.gta4.net/news/3874/rockstar-games-announces-grand-theft-auto-iv-special-edition/"
+    ],
+    "verification": "Lanzamiento oficial; contenido y precio corroborados por GTA Network (fuente secundaria contemporánea)",
+    "collectible": true,
+    "imageOriginalUrl": "https://media.gtanet.com/images/new_special_edition_ps3.jpg",
+    "imageSource": "https://www.gta4.net/news/3967/new-special-edition-images/",
+    "imageCaption": "Presentación promocional de Special Edition para PS3, conservada por GTA4.net / GTANet.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "episodes-liberty-city",
+    "gameId": "tlad",
+    "name": "Grand Theft Auto: Episodes from Liberty City",
+    "year": 2009,
+    "platforms": [
+      "Xbox 360"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "The Lost and Damned",
+      "The Ballad of Gay Tony"
+    ],
+    "physical": [
+      "Disco independiente"
+    ],
+    "digital": [],
+    "differences": "No requiere GTA IV; no incluye la historia de Niko.",
+    "price": "No verificado",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/episodes-liberty-city.jpg",
+    "sources": [
+      "https://www.rockstargames.com/newswire/article/398a4552kaaoaa/your-questions-answered-episodes-from-liberty-city-vs-the-ballad.html",
+      "https://ir.take2games.com/static-files/11926c77-4173-4fb4-9fa2-165927278c48"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://www.gtabase.com/igallery/gta4-covers/gta-iv-episodes-cover-art-1920.jpg",
+    "imageSource": "https://www.gtabase.com/grand-theft-auto-iv/covers/",
+    "imageCaption": "Arte de portada de Episodes from Liberty City; archivo de GTA Base.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "iv-complete",
+    "gameId": "gta4",
+    "name": "Grand Theft Auto IV: Complete Edition",
+    "year": 2010,
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "region": "Norteamérica y Europa",
+    "format": "Física",
+    "contents": [
+      "Grand Theft Auto IV",
+      "The Lost and Damned",
+      "The Ballad of Gay Tony"
+    ],
+    "physical": [
+      "Juegos en disco"
+    ],
+    "digital": [],
+    "differences": "Reúne las tres historias de Liberty City.",
+    "price": "39,99 USD · EE.UU. / 34,99 GBP · Reino Unido / 49,99 EUR · Europa",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/iv-complete.jpg",
+    "sources": [
+      "https://ir.take2games.com/static-files/1613c03d-4829-4bf7-a69d-34f936de0953"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://www.gtabase.com/igallery/7601-7700/GTA_4_Artwork_Complete_Edition-7606-1600.jpg",
+    "imageSource": "https://www.gtabase.com/grand-theft-auto-iv/artworks/gta-4/",
+    "imageCaption": "Arte promocional de The Complete Edition; archivo de GTA Base.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "v-standard",
+    "gameId": "gta5",
+    "name": "Grand Theft Auto V — edición estándar",
+    "year": 2013,
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "Grand Theft Auto V"
+    ],
+    "physical": [
+      "Juego en disco; insertos no catalogados"
+    ],
+    "digital": [],
+    "differences": "Sin los objetos de las ediciones Special y Collector’s.",
+    "price": "No verificado",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/v-standard.jpg",
+    "sources": [
+      "https://ir.take2games.com/node/16036/pdf"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://www.gtabase.com/igallery/601-700/GTA_V_Cover_PS3.jpg-649-1920.jpg",
+    "imageSource": "https://www.gtabase.com/grand-theft-auto-v/cover-art/",
+    "imageCaption": "Carátula de la edición estándar para PlayStation 3; archivo de GTA Base.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "v-special",
+    "gameId": "gta5",
+    "name": "Grand Theft Auto V Special Edition",
+    "year": 2013,
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "Grand Theft Auto V"
+    ],
+    "physical": [
+      "SteelBook ilustrado",
+      "Mapa de planos de Los Santos y Blaine County"
+    ],
+    "digital": [
+      "Recarga de habilidad especial un 25 % más rápida",
+      "Pruebas de avioneta acrobática",
+      "Ropa, tatuajes y descuentos",
+      "Armas adicionales"
+    ],
+    "differences": "Añade objetos y ventajas digitales a la edición base.",
+    "price": "79,99 USD · EE.UU.",
+    "availability": "Reserva de 2013 limitada a existencias",
+    "image": "assets/editions/v-special.jpg",
+    "sources": [
+      "https://ir.take2games.com/node/16036/pdf"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": true,
+    "imageCaption": "Presentación de Special Edition para PS3: caja, SteelBook, mapa y extras digitales. Archivo de CollectorsEditionDB.",
+    "imageOriginalUrl": "https://media.publit.io/file/COLLECTORSEDITIONS/grand-theft-auto-v-special-edition-ps3-collectors-edition.jpg",
+    "imageSource": "https://collectorseditiondb.com/edition/grand-theft-auto-v-special-edition-2",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "v-collectors",
+    "gameId": "gta5",
+    "name": "Grand Theft Auto V Collector’s Edition",
+    "year": 2013,
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "Grand Theft Auto V"
+    ],
+    "physical": [
+      "SteelBook ilustrado",
+      "Mapa de planos de Los Santos y Blaine County",
+      "Bolsa de seguridad con llave",
+      "Gorra New Era 9FIFTY Los Santos",
+      "Caja exterior de colección"
+    ],
+    "digital": [
+      "Recarga de habilidad especial un 25 % más rápida",
+      "Pruebas de avioneta acrobática",
+      "Ropa, tatuajes y descuentos",
+      "Armas adicionales",
+      "Personajes clásicos para el creador de GTA Online",
+      "Garaje, Hotknife y CarbonRS; Khamelion en Online"
+    ],
+    "differences": "Incluye los extras de Special y añade objetos y vehículos.",
+    "price": "149,99 USD · EE.UU.",
+    "availability": "Reserva de 2013 limitada a existencias",
+    "image": "assets/editions/v-collectors.jpg",
+    "sources": [
+      "https://ir.take2games.com/node/16036/pdf"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": true,
+    "imageCaption": "Detalle de la presentación promocional de Collector’s Edition publicado por PlayStation Blog.",
+    "imageOriginalUrl": "https://blog.playstation.com/tachyon/2013/05/gta5.jpg",
+    "imageCheckedAt": "2026-10-20",
+    "imageSource": "https://blog.playstation.com/tachyon/2013/05/gta5.jpg"
+  },
+  {
+    "id": "v-premium",
+    "gameId": "gta5",
+    "name": "Grand Theft Auto V: Premium Online Edition",
+    "year": 2018,
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física y digital",
+    "contents": [
+      "Grand Theft Auto V",
+      "GTA Online",
+      "Criminal Enterprise Starter Pack"
+    ],
+    "physical": [
+      "Copias físicas en consolas; extras físicos no documentados"
+    ],
+    "digital": [
+      "Pack de negocios, vehículos y otros artículos",
+      "1.000.000 GTA$"
+    ],
+    "differences": "Añade el Starter Pack; no es una caja de coleccionista.",
+    "price": "No verificado",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/v-premium.jpg",
+    "sources": [
+      "https://www.rockstargames.com/es/newswire/article/4k412883894k97/Grand-Theft-Auto-V-Premium-Online-Edition",
+      "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-strong-results-8/"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://www.gtabase.com/igallery/1701-1800/GTA_V_Premium_Online_Edition_Cover-1714-1920.jpg",
+    "imageSource": "https://www.gtabase.com/grand-theft-auto-v/cover-art/",
+    "imageCaption": "Arte de portada de Premium Online Edition; archivo de GTA Base.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "v-newgen",
+    "gameId": "gta5",
+    "name": "Grand Theft Auto V — PS5 / Xbox Series X|S",
+    "year": 2022,
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física y digital",
+    "contents": [
+      "Modo Historia",
+      "GTA Online"
+    ],
+    "physical": [
+      "Edición física posterior al estreno digital"
+    ],
+    "digital": [
+      "Mejoras gráficas y de carga"
+    ],
+    "differences": "Versión para la generación PS5 y Xbox Series; estreno digital el 15 de marzo.",
+    "price": "No verificado",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/v-newgen.jpg",
+    "sources": [
+      "https://www.rockstargames.com/newswire/article/172872k8a375k8/gtav-and-gta-online-coming-march-15-for-playstation-5-and-xbox-series"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://www.gtabase.com/igallery/8501-8600/gta-v-cover-ps5-xbox-series-xs-8584-1920.jpg",
+    "imageSource": "https://www.gtabase.com/grand-theft-auto-v/cover-art/",
+    "imageCaption": "Arte de portada de la versión para PS5 y Xbox Series; archivo de GTA Base.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "online-standalone",
+    "gameId": "online",
+    "name": "Grand Theft Auto Online — independiente",
+    "year": 2022,
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Digital",
+    "contents": [
+      "Grand Theft Auto Online"
+    ],
+    "physical": [],
+    "digital": [
+      "GTA Online independiente"
+    ],
+    "differences": "No incluye el Modo Historia de GTA V.",
+    "price": "No verificado",
+    "availability": "Estreno digital el 15 de marzo de 2022; promoción gratuita inicial de tres meses en PS5",
+    "image": "assets/editions/online-standalone.jpg",
+    "sources": [
+      "https://www.rockstargames.com/newswire/article/172872k8a375k8/gtav-and-gta-online-coming-march-15-for-playstation-5-and-xbox-series"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://www.gtabase.com/igallery/8501-8600/gta-online-standalone-cover-8583-1920.jpg",
+    "imageSource": "https://www.gtabase.com/grand-theft-auto-v/cover-art/",
+    "imageCaption": "Portada digital de GTA Online independiente; no es una caja física. Archivo de GTA Base.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "definitive-digital",
+    "gameId": "definitive",
+    "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+    "year": 2021,
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X|S",
+      "Nintendo Switch"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Digital",
+    "contents": [
+      "GTA III remasterizado",
+      "Vice City remasterizado",
+      "San Andreas remasterizado"
+    ],
+    "physical": [],
+    "digital": [
+      "Tres juegos remasterizados"
+    ],
+    "differences": "Mejoras visuales y controles renovados respecto a la trilogía original.",
+    "price": "No verificado",
+    "availability": "Edición histórica; existencias actuales no verificadas",
+    "image": "assets/editions/definitive-digital.jpg",
+    "sources": [
+      "https://www.rockstargames.com/GTATrilogy"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://images.ctfassets.net/h1rqp7q66d54/3SAyvoSw7k5IP4ycmMpCtY/f751a6b552ef354c3e09f24bc755384b/GTAT_RockstarStore_HeroNoLogo_2160x2160_Deliverable.jpg",
+    "imageSource": "https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition?drm=Xbox+One+%2F+Xbox+Series+X",
+    "imageCaption": "Arte promocional oficial de The Definitive Edition, Rockstar Store; no es una caja física.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "definitive-physical",
+    "gameId": "definitive",
+    "name": "The Trilogy – The Definitive Edition — edición física",
+    "year": 2021,
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One / Xbox Series X"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "GTA III remasterizado",
+      "Vice City remasterizado",
+      "San Andreas remasterizado"
+    ],
+    "physical": [
+      "Copia física"
+    ],
+    "digital": [],
+    "differences": "Edición física de la recopilación; no añade objetos de coleccionismo documentados.",
+    "price": "No verificado",
+    "availability": "17 de diciembre de 2021; versión física de Switch posterior, no incluida en esta ficha",
+    "image": "assets/editions/definitive-physical.jpg",
+    "sources": [
+      "https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition?drm=Xbox+One+%2F+Xbox+Series+X"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "http://ecommerce.datablitz.com.ph/cdn/shop/files/fnnngffgn.jpg?v=1731078366",
+    "imageSource": "https://ecommerce.datablitz.com.ph/products/ps4-gta-the-trilogy-the-definitive-edition-reg-2-sp-cover",
+    "imageCaption": "Caja de The Definitive Edition para PS4, carátula española de región 2. Imagen de producto de DataBlitz.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "vi-standard",
+    "gameId": "gta6",
+    "name": "Grand Theft Auto VI: Standard Edition",
+    "year": 2026,
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física y digital",
+    "contents": [
+      "Grand Theft Auto VI"
+    ],
+    "physical": [
+      "Versión en caja: código de descarga, sin disco"
+    ],
+    "digital": [
+      "Juego digital"
+    ],
+    "differences": "Ultimate Upgrade se vende aparte. Bonificaciones de reserva sujetas a condiciones.",
+    "price": "79,99 USD · EE.UU. · precio anunciado",
+    "availability": "En reserva; lanzamiento anunciado: 19 de noviembre de 2026",
+    "image": "assets/editions/vi-standard.jpg",
+    "sources": [
+      "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "https://ir.take2games.com/node/32311/pdf"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://images.ctfassets.net/h1rqp7q66d54/2bQ11ydObxmD2CvRyUlII6/e6e94f08f74e6a439e8937421653245e/GTAVI_PreOrderWebstore_CompareEditionsThumbnail_Standard_1280x720_R01.jpg",
+    "imageSource": "https://store.rockstargames.com/game/buy-gta-vi?drm=xbox",
+    "imageCaption": "Imagen promocional oficial de la edición estándar, Rockstar Store.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "vi-ultimate",
+    "gameId": "gta6",
+    "name": "Grand Theft Auto VI: Ultimate Edition",
+    "year": 2026,
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Digital",
+    "contents": [
+      "Grand Theft Auto VI",
+      "Ultimate Edition Upgrade"
+    ],
+    "physical": [],
+    "digital": [
+      "Vehículos, armas, ropa y contenido adicional a lo largo de la historia",
+      "Incluye Grotti Cheetah de 1995, revólveres Hawk & Little Morgan y otros extras; lista íntegra en la fuente"
+    ],
+    "differences": "Sólo digital; la edición estándar en caja admite la mejora separada.",
+    "price": "99,99 USD · EE.UU. · precio anunciado",
+    "availability": "En reserva; lanzamiento anunciado: 19 de noviembre de 2026",
+    "image": "assets/editions/vi-ultimate.jpg",
+    "sources": [
+      "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "https://ir.take2games.com/node/32311/pdf"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": false,
+    "imageOriginalUrl": "https://images.ctfassets.net/h1rqp7q66d54/6BWQSfnOYTcVVsRj8ay2ML/8e51ba006c8d309d0c6a1b582c44b041/UltimateEdition_07_en_us_R04_Deliv.jpg",
+    "imageSource": "https://store.rockstargames.com/game/buy-gta-vi?drm=xbox",
+    "imageCaption": "Presentación oficial de Ultimate Edition y sus extras digitales, Rockstar Store.",
+    "imageCheckedAt": "2026-10-20"
+  },
+  {
+    "id": "vi-vicecity-collection",
+    "gameId": "gta6",
+    "name": "Grand Theft Auto VI: The Goodtime State – Vice City Collection",
+    "year": 2026,
+    "platforms": [
+      "Merchandising · no incluye juego"
+    ],
+    "region": "Internacional; variantes regionales no catalogadas",
+    "format": "Física",
+    "contents": [
+      "Colección de objetos; juego vendido por separado"
+    ],
+    "physical": [
+      "Figura Macca the Gator",
+      "Gafas Oakley Frogskins",
+      "Bandolera Leonida Keys",
+      "Gorra New Era 9FORTY",
+      "Espejo magnético Macca",
+      "Vaso Chunkee",
+      "Cucharilla Vice City",
+      "Llavero Vice City",
+      "Pins Leonida Keys en caja metálica",
+      "Pegatinas Leonida Keys en bolsa",
+      "Póster reversible con mapa de Leonida"
+    ],
+    "digital": [],
+    "differences": "Caja de objetos de colección independiente. NO incluye GTA VI ni una licencia.",
+    "price": "399,99 USD · Rockstar Store EE.UU. · reserva",
+    "availability": "Reserva anunciada el 24 de septiembre de 2026; hasta agotar existencias",
+    "image": "assets/editions/vi-vicecity-collection.jpg",
+    "sources": [
+      "https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection",
+      "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l"
+    ],
+    "verification": "Fuente oficial",
+    "collectible": true,
+    "imageCaption": "Fotografía de producto oficial de Rockstar Store",
+    "imageOriginalUrl": "https://images.ctfassets.net/h1rqp7q66d54/oUv7kz3o5ZHK96pgSEr80/a5c6343cdf67e3a95cf9cdd172ebe30b/GTAVI_CE_Box_Open_1440x1440.png",
+    "imageCheckedAt": "2026-10-20",
+    "imageSource": "https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection"
+  }
+]

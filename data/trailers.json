@@ -1,0 +1,549 @@
+[
+  {
+    "id": "gta1-promo",
+    "gameId": "gta1",
+    "title": "Grand Theft Auto — tráiler de lanzamiento",
+    "date": null,
+    "year": 1997,
+    "category": "Lanzamiento",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=MdlhjRlNyA8",
+    "youtubeId": "MdlhjRlNyA8",
+    "thumbnail": "assets/trailers/gta1-promo.jpg",
+    "description": "Copia conservada en prensa especializada. La fecha editorial 10/10/1997 no se ha corroborado como estreno original.",
+    "verification": "Copia histórica no oficial",
+    "sources": [
+      "https://www.youtube.com/watch?v=MdlhjRlNyA8"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "lnd1969",
+    "gameId": "london1969",
+    "title": "Grand Theft Auto London 1969",
+    "date": null,
+    "year": 1999,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=gGMf7MBC_mI",
+    "youtubeId": "gGMf7MBC_mI",
+    "thumbnail": "assets/trailers/london1969.jpg",
+    "description": "Primer tráiler de London 1969. La fuente carece de la ficha histórica; disponibilidad del vídeo pendiente.",
+    "verification": "Archivo secundario documentado",
+    "sources": [
+      "https://www.youtube.com/watch?v=gGMf7MBC_mI"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Ficha histórica; reproducción no verificada"
+  },
+  {
+    "id": "gtaiitrailer",
+    "gameId": "gtaII",
+    "title": "Grand Theft Auto II",
+    "date": null,
+    "year": 1999,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=m92gtPpv-U8",
+    "youtubeId": "m92gtPpv-U8",
+    "thumbnail": "assets/trailers/gta2.jpg",
+    "description": "Primer tráiler de Grand Theft Auto II. La fuente carece de la ficha histórica; disponibilidad del vídeo pendiente.",
+    "verification": "Archivo secundario documentado",
+    "sources": [
+      "https://www.youtube.com/watch?v=m92gtPpv-U8"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Ficha histórica; reproducción no verificada"
+  },
+  {
+    "id": "gtaiiitrailer",
+    "gameId": "gtaIII",
+    "title": "Grand Theft Auto III",
+    "date": null,
+    "year": 2001,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=agACYOeuX7k",
+    "youtubeId": "agACYOeuX7k",
+    "thumbnail": "assets/trailers/gta3.jpg",
+    "description": "Primer tráiler de Grand Theft Auto III. La fuente carece de la ficha histórica; disponibilidad del vídeo pendiente.",
+    "verification": "Archivo secundario documentado",
+    "sources": [
+      "https://www.youtube.com/watch?v=agACYOeuX7k"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Ficha histórica; reproducción no verificada"
+  },
+  {
+    "id": "ViceCity",
+    "gameId": "vicecity",
+    "title": "Grand Theft Auto: Vice City",
+    "date": null,
+    "year": 2002,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=d6UIs2a_fSI",
+    "youtubeId": "d6UIs2a_fSI",
+    "thumbnail": "assets/trailers/vicecity.jpg",
+    "description": "Conjunto de todos los trailers de Grand Theft Auto: Vice City. La fuente carece de la ficha histórica; disponibilidad del vídeo pendiente.",
+    "verification": "Archivo secundario documentado",
+    "sources": [
+      "https://www.youtube.com/watch?v=d6UIs2a_fSI"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Ficha histórica; reproducción no verificada"
+  },
+  {
+    "id": "sa-1",
+    "gameId": "sanandreas",
+    "title": "Welcome to Los Santos",
+    "date": null,
+    "year": 2004,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=Wf-lPtfhCrQ",
+    "youtubeId": "Wf-lPtfhCrQ",
+    "thumbnail": "assets/trailers/sanandreas_wtls.jpg",
+    "description": "Primer tráiler de San Andreas, documentado en agosto de 2004. La fuente conserva la ficha histórica; disponibilidad del vídeo pendiente.",
+    "verification": "Archivo secundario documentado",
+    "sources": [
+      "https://www.youtube.com/watch?v=Wf-lPtfhCrQ"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Ficha histórica; reproducción no verificada"
+  },
+  {
+    "id": "sa-2",
+    "gameId": "sanandreas",
+    "title": "Grand Theft Auto: San Andreas — Official Trailer",
+    "date": null,
+    "year": 2004,
+    "category": "Tráiler numerado",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=yOzcbtsw_pQ",
+    "youtubeId": "yOzcbtsw_pQ",
+    "thumbnail": "assets/trailers/sanandreas_ofi.jpg",
+    "description": "Segundo tráiler, documentado en septiembre de 2004. La fuente conserva la ficha histórica; disponibilidad del vídeo pendiente.",
+    "verification": "Archivo secundario documentado",
+    "sources": [
+      "https://www.youtube.com/watch?v=yOzcbtsw_pQ"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Ficha histórica; reproducción no verificada"
+  },
+  {
+    "id": "sa-3",
+    "gameId": "sanandreas",
+    "title": "Homecoming",
+    "date": null,
+    "year": 2004,
+    "category": "Tráiler numerado",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=Cn_aeG6xUkk",
+    "youtubeId": "Cn_aeG6xUkk",
+    "thumbnail": "assets/trailers/sanandreas_home.jpg",
+    "description": "Tercer tráiler, documentado en octubre de 2004. La fuente conserva la ficha histórica; disponibilidad del vídeo pendiente.",
+    "verification": "Archivo secundario documentado",
+    "sources": [
+      "https://www.youtube.com/watch?v=Cn_aeG6xUkk"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Ficha histórica; reproducción no verificada"
+  },
+  {
+    "id": "lcs-1",
+    "gameId": "lcs",
+    "title": "Grand Theft Auto: Liberty City Stories — Trailer #1",
+    "date": null,
+    "year": 2005,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=1x8yfCQI5xI",
+    "youtubeId": "1x8yfCQI5xI",
+    "thumbnail": "assets/trailers/liberty_city.jpg",
+    "description": "Los tres tráilers de PSP. Su fecha de subida, octubre de 2009, no es la de estreno.",
+    "verification": "Copia histórica no oficial",
+    "sources": [
+      "https://www.youtube.com/watch?v=1x8yfCQI5xI"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "vcs-1",
+    "gameId": "vcs",
+    "title": "Grand Theft Auto: Vice City Stories — Trailer #1",
+    "date": null,
+    "year": 2006,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=j2u0ajaM_D8",
+    "youtubeId": "j2u0ajaM_D8",
+    "thumbnail": "assets/trailers/vcs-1.jpg",
+    "description": "Los tres tráilers de PSP. Su fecha de subida, 2006.",
+    "verification": "Copia histórica no oficial",
+    "sources": [
+      "https://www.youtube.com/watch?v=j2u0ajaM_D8"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/mlUGHfwG9FQ/hqdefault.jpg"
+  },
+  {
+    "id": "iv-1",
+    "gameId": "gta4",
+    "title": "Things Will Be Different",
+    "date": "2007-03-29",
+    "year": 2007,
+    "category": "Tráiler numerado",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=M80K51DosFo",
+    "youtubeId": "M80K51DosFo",
+    "thumbnail": "assets/trailers/iv-1.jpg",
+    "description": "Primera presentación de Liberty City y Niko Bellic. Enlace oficial identificado en el archivo especializado.",
+    "verification": "Original oficial; fecha contrastada",
+    "sources": [
+      "https://www.youtube.com/watch?v=M80K51DosFo",
+      "https://www.grandtheftauto-fr.com/index.php/gta4-videos"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/M80K51DosFo/hqdefault.jpg"
+  },
+  {
+    "id": "iv-2",
+    "gameId": "gta4",
+    "title": "Looking for That Special Someone",
+    "date": "2007-06-28",
+    "year": 2007,
+    "category": "Tráiler numerado",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=kOZ8bRAO7YQ",
+    "youtubeId": "kOZ8bRAO7YQ",
+    "thumbnail": "assets/trailers/iv-2.jpg",
+    "description": "Segundo tráiler de GTA IV publicado por el canal verificado de Rockstar Games.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=kOZ8bRAO7YQ"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/kOZ8bRAO7YQ/hqdefault.jpg"
+  },
+  {
+    "id": "iv-3",
+    "gameId": "gta4",
+    "title": "Move Up, Ladies",
+    "date": "2007-12-06",
+    "year": 2007,
+    "category": "Tráiler numerado",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=58WECDAhCEE",
+    "youtubeId": "58WECDAhCEE",
+    "thumbnail": "assets/trailers/iv-3.jpg",
+    "description": "Tercer tráiler de GTA IV. Fuente oficial con fecha contrastada en archivo histórico.",
+    "verification": "Original oficial; fecha contrastada",
+    "sources": [
+      "https://www.youtube.com/watch?v=58WECDAhCEE"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "iv-4",
+    "gameId": "gta4",
+    "title": "Good Lord, What Are You Doing? / Everyone's a Rat",
+    "date": "2008-03-27",
+    "year": 2008,
+    "category": "Tráiler numerado",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=mNrm7wqnpVI",
+    "youtubeId": "mNrm7wqnpVI",
+    "thumbnail": "assets/trailers/iv-4.jpg",
+    "description": "Cuarto tráiler principal previo al lanzamiento de GTA IV.",
+    "verification": "Original oficial; fecha contrastada",
+    "sources": [
+      "https://www.youtube.com/watch?v=mNrm7wqnpVI"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "tlad-2",
+    "gameId": "tlad",
+    "title": "The Lost and Damned — Trailer",
+    "date": null,
+    "year": 2009,
+    "category": "Expansión",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=FW2sTQuz6l8",
+    "youtubeId": "FW2sTQuz6l8",
+    "thumbnail": "assets/trailers/iv-5.jpg",
+    "description": "Johnny Klebitz y The Lost protagonizan este tráiler oficial. Día original pendiente de verificación.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=FW2sTQuz6l8"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "chinatown-psp",
+    "gameId": "chinatown",
+    "title": "Grand Theft Auto: Chinatown Wars — Official PSP Trailer",
+    "date": null,
+    "year": 2009,
+    "category": "Nueva plataforma",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=jC0HbaLblcs",
+    "youtubeId": "jC0HbaLblcs",
+    "thumbnail": "assets/trailers/chinopsp.jpg",
+    "description": "Presentación oficial de la adaptación a PSP. Día original no verificado.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=jC0HbaLblcs"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "tbogt-king",
+    "gameId": "tbogt",
+    "title": "You'll Always Be the King of This Town",
+    "date": null,
+    "year": 2009,
+    "category": "Expansión",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=fcDY7SCLWcc",
+    "youtubeId": "fcDY7SCLWcc",
+    "thumbnail": "assets/trailers/iv-6.jpg",
+    "description": "Tráiler de Episodes from Liberty City centrado en The Ballad of Gay Tony. Día original pendiente.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=fcDY7SCLWcc"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "episodes-pc",
+    "gameId": "tbogt",
+    "title": "Episodes from Liberty City — New Trailer",
+    "date": null,
+    "year": 2010,
+    "category": "Nueva plataforma",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=GK5xAtCXVf0",
+    "youtubeId": "GK5xAtCXVf0",
+    "thumbnail": "assets/trailers/episodes.jpg",
+    "description": "Promoción de Episodes from Liberty City para PC y PS3. La recopilación incluye The Lost and Damned y The Ballad of Gay Tony.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=GK5xAtCXVf0"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "v-1",
+    "gameId": "gta5",
+    "title": "Grand Theft Auto V Trailer",
+    "date": "2011-11-02",
+    "year": 2011,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=QkkoHAzjnUs",
+    "youtubeId": "QkkoHAzjnUs",
+    "thumbnail": "assets/trailers/v-1.jpg",
+    "description": "Primer tráiler de GTA V publicado por Rockstar Games.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=QkkoHAzjnUs"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/QkkoHAzjnUs/hqdefault.jpg"
+  },
+  {
+    "id": "v-2",
+    "gameId": "gta5",
+    "title": "Grand Theft Auto V: Michael. Franklin. Trevor",
+    "date": "2011-11-02",
+    "year": 2011,
+    "category": "Anuncio",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=Bf38HiYPMiI",
+    "youtubeId": "Bf38HiYPMiI",
+    "thumbnail": "assets/trailers/v-2.jpg",
+    "description": "Trailer de los 3 personajes principales de GTA V publicado por Rockstar Games.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=Bf38HiYPMiI"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/QkkoHAzjnUs/hqdefault.jpg"
+  },
+  {
+    "id": "v-gameplay",
+    "gameId": "gta5",
+    "title": "Grand Theft Auto V: Official Gameplay Video",
+    "date": "2013-07-09",
+    "year": 2013,
+    "category": "Gameplay",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "youtubeId": "N-xHcvug3WI",
+    "thumbnail": "assets/trailers/v-gameplay.jpg",
+    "description": "Presentación oficial de las mecánicas de GTA V.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=N-xHcvug3WI"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/N-xHcvug3WI/hqdefault.jpg"
+  },
+  {
+    "id": "online-gameplay",
+    "gameId": "online",
+    "title": "Grand Theft Auto Online: Official Gameplay Video",
+    "date": "2013-08-15",
+    "year": 2013,
+    "category": "Gameplay",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=olEGtoYs_8A",
+    "youtubeId": "olEGtoYs_8A",
+    "thumbnail": "assets/trailers/online-gameplay.jpg",
+    "description": "Presentación inicial de GTA Online, diferenciada de sus posteriores actualizaciones.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=olEGtoYs_8A"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/olEGtoYs_8A/hqdefault.jpg"
+  },
+  {
+    "id": "v-launch",
+    "gameId": "gta5",
+    "title": "Grand Theft Auto V: The Official Trailer",
+    "date": "2013-08-29",
+    "year": 2013,
+    "category": "Lanzamiento",
+    "duration": "01:00",
+    "url": "https://www.youtube.com/watch?v=hvoD7ehZPcM",
+    "youtubeId": "hvoD7ehZPcM",
+    "thumbnail": "assets/trailers/v-launch.jpg",
+    "description": "Tráiler previo al lanzamiento de septiembre de 2013.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=hvoD7ehZPcM",
+      "https://www.rockstargames.com/videos/a8k183c8"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/hvoD7ehZPcM/hqdefault.jpg"
+  },
+  {
+    "id": "definitive-trailer",
+    "gameId": "definitive",
+    "title": "Grand Theft Auto: The Trilogy – The Definitive Edition — Trailer",
+    "date": "2021-10-22",
+    "year": 2021,
+    "category": "Remasterización",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=mtyOXKB0M5o",
+    "youtubeId": "mtyOXKB0M5o",
+    "thumbnail": "assets/trailers/deniniti.jpg",
+    "description": "Presentación de las versiones remasterizadas de GTA III, Vice City y San Andreas.",
+    "verification": "Original oficial; fecha contrastada",
+    "sources": [
+      "https://www.youtube.com/watch?v=mtyOXKB0M5o"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  },
+  {
+    "id": "vi-1",
+    "gameId": "gta6",
+    "title": "Grand Theft Auto VI Trailer 1",
+    "date": "2023-12-04",
+    "year": 2023,
+    "category": "Tráiler numerado",
+    "duration": "01:31",
+    "url": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+    "youtubeId": "QdBZY2fkU-0",
+    "thumbnail": "assets/trailers/vi-1.jpg",
+    "description": "Primer tráiler oficial. La fecha refleja la publicación del canal, adelantada a la presentación inicialmente prevista.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Inicio de reproducción integrada comprobado en el navegador; no se revisó el vídeo completo.",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+    "playbackCheckedAt": "2026-10-19"
+  },
+  {
+    "id": "vi-2",
+    "gameId": "gta6",
+    "title": "Grand Theft Auto VI Trailer 2",
+    "date": "2025-05-06",
+    "year": 2025,
+    "category": "Tráiler numerado",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+    "youtubeId": "VQRLujxTm3c",
+    "thumbnail": "assets/trailers/vi-2.jpg",
+    "description": "Presentación de Jason y Lucia. Rockstar indica que fue capturado íntegramente en PS5, combinando juego y cinemáticas.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=VQRLujxTm3c"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad",
+    "thumbnailOriginalUrl": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg"
+  },
+  {
+    "id": "vi-extended",
+    "gameId": "gta6",
+    "title": "Grand Theft Auto VI: An Extended Look",
+    "date": "2026-08-27",
+    "year": 2026,
+    "category": "Gameplay",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
+    "youtubeId": null,
+    "thumbnail": "assets/trailers/vi_extended.jpg",
+    "description": "Presentación extensa incluida en la videoteca oficial. Estreno en Netflix el 27 de agosto y publicación posterior en Rockstar. Se ofrece la fuente oficial por no verificar de forma concluyente el canal del identificador enlazado por terceros.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.rockstargames.com/VI/media/videos",
+      "https://www.youtube.com/watch?v=YmzCydc4qOk",
+      "https://www.youtube.com/watch?v=tJbzMqJGH4k"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Canal oficial localizado. Sin inserción: la fuente puede requerir comprobar la edad."
+  },
+  {
+    "id": "vi-launch",
+    "gameId": "gta6",
+    "title": "Grand Theft Auto VI Launch Trailer",
+    "date": "2026-10-15",
+    "year": 2026,
+    "category": "Lanzamiento",
+    "duration": null,
+    "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "youtubeId": null,
+    "thumbnail": "assets/trailers/vi-launch.jpg",
+    "description": "Tráiler de lanzamiento anunciado en Newswire. Acceso a la página oficial con el vídeo; no se usa un identificador de YouTube sin corroborar.",
+    "verification": "Original oficial confirmado",
+    "sources": [
+      "https://www.youtube.com/watch?v=rz1B4B2yBZY"
+    ],
+    "checkedAt": "2026-10-19",
+    "availability": "Fuente localizada; reproducción sujeta a disponibilidad"
+  }
+]

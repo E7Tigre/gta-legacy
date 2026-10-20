@@ -1,0 +1,533 @@
+[
+  {
+    "id": "gta1",
+    "title": "Grand Theft Auto",
+    "date": "1997-11-28",
+    "year": 1997,
+    "releaseNote": "Europa; otras regiones y conversiones tienen fechas distintas.",
+    "platforms": [
+      "MS-DOS",
+      "Windows"
+    ],
+    "ports": [
+      "PlayStation (Europa, diciembre de 1997)",
+      "Game Boy Color (1999)"
+    ],
+    "developer": "DMA Design",
+    "setting": "Liberty City, San Andreas y Vice City, 1997",
+    "synopsis": "Un delincuente asciende cumpliendo encargos por tres ciudades vistas desde arriba.",
+    "cover": "assets/covers/gta1.jpg",
+    "era": "2D",
+    "facts": [
+      "Presentó las tres ciudades que reaparecerían en la saga."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "coverVerification": "Reproducción de carátula publicada en Wikipedia; archivo secundario, derechos de Rockstar Games. No es una fotografía de un ejemplar físico."
+  },
+  {
+    "id": "london1969",
+    "title": "Grand Theft Auto: London 1969",
+    "date": "1999-04-30",
+    "year": 1999,
+    "releaseNote": "Fecha documentada por noticia contemporánea de distribución; las fechas de catálogos regionales pueden diferir.",
+    "platforms": [
+      "Windows",
+      "MS-DOS",
+      "PlayStation"
+    ],
+    "ports": [],
+    "developer": "Rockstar Canada; conversión PlayStation: Runecraft",
+    "setting": "Londres, 1969",
+    "synopsis": "Una expansión traslada los encargos criminales del primer GTA al Londres de los sesenta.",
+    "cover": "assets/covers/london1969.jpg",
+    "era": "2D",
+    "facts": [
+      "Fue una expansión para el GTA original."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1969"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1969",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/Grand_Theft_Auto_London_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "coverVerification": "Reproducción de carátula publicada en Wikipedia; archivo secundario, derechos de Rockstar Games. No es una fotografía de un ejemplar físico."
+  },
+  {
+    "id": "london1961",
+    "title": "Grand Theft Auto: London 1961",
+    "date": "1999-07-01",
+    "year": 1999,
+    "releaseNote": "Fecha de disponibilidad en la web, según anuncio de Take-Two conservado y citado en fuente secundaria.",
+    "platforms": [
+      "Windows",
+      "MS-DOS"
+    ],
+    "ports": [],
+    "developer": "Rockstar Canada",
+    "setting": "Londres, 1961",
+    "synopsis": "Nuevas misiones para la expansión londinense, ambientadas ocho años antes.",
+    "cover": "assets/covers/london1961.jpg",
+    "era": "2D",
+    "facts": [
+      "Se distribuyó como descarga gratuita y requería GTA y London 1969."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1961"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional."
+  },
+  {
+    "id": "gtaII",
+    "title": "Grand Theft Auto II",
+    "date": "1999-10-22",
+    "year": 1999,
+    "releaseNote": "Lanzamiento inicial de PC y PlayStation según fuente histórica secundaria.",
+    "platforms": [
+      "Windows",
+      "PlayStation"
+    ],
+    "ports": [
+      "Dreamcast (2000)",
+      "Game Boy Color (2000; Tarantula Studios)"
+    ],
+    "developer": "DMA Design",
+    "setting": "Anywhere City; año ficticio no establecido de forma consistente",
+    "synopsis": "El jugador realiza trabajos para bandas rivales y administra su reputación entre ellas.",
+    "cover": "assets/covers/gta2.jpg",
+    "era": "2D",
+    "facts": [
+      "Introdujo un sistema de respeto entre bandas.",
+      "Su promoción incluyó un cortometraje de acción real."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_2"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_2",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/GTA2_Box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "coverVerification": "Reproducción de carátula publicada en Wikipedia; archivo secundario, derechos de Rockstar Games. No es una fotografía de un ejemplar físico."
+  },
+  {
+    "id": "gtaIII",
+    "title": "Grand Theft Auto III",
+    "date": "2001-10-23",
+    "year": 2001,
+    "releaseNote": "Norteamérica; región PAL: 26 de octubre de 2001.",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "ports": [
+      "Windows (2002)",
+      "Xbox (2003 en Norteamérica)",
+      "Mac OS X (2010)",
+      "iOS y Android (2011)",
+      "Fire OS (2014)",
+      "Reediciones PS2 Classics y PS4; remasterización en 2021"
+    ],
+    "developer": "DMA Design",
+    "setting": "Liberty City, 2001",
+    "synopsis": "Claude sobrevive a una traición y busca venganza trabajando para el crimen organizado.",
+    "cover": "assets/covers/gta3.jpg",
+    "era": "3D",
+    "facts": [
+      "Fue el primer GTA con un mundo totalmente tridimensional."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "coverVerification": "Reproducción de carátula publicada en Wikipedia; archivo secundario, derechos de Rockstar Games. No es una fotografía de un ejemplar físico."
+  },
+  {
+    "id": "vicecity",
+    "title": "Grand Theft Auto: Vice City",
+    "date": "2002-10-29",
+    "year": 2002,
+    "releaseNote": "Norteamérica; Europa: 8 de noviembre de 2002.",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "ports": [
+      "Windows y Xbox (2003)",
+      "Mac OS X (2010)",
+      "iOS y Android (2012)",
+      "Fire OS (2014)",
+      "Reediciones PS2 Classics y PS4; remasterización en 2021"
+    ],
+    "developer": "Rockstar North",
+    "setting": "Vice City, 1986",
+    "synopsis": "Tommy Vercetti llega a Vice City y construye un imperio criminal tras un negocio fallido.",
+    "cover": "assets/covers/vicecity.jpg",
+    "era": "3D",
+    "facts": [
+      "Ray Liotta interpretó la voz de Tommy Vercetti."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
+    "coverVerification": "Carátula identificada en metadatos de Wikipedia; carga remota sujeta a disponibilidad. Descarga local bloqueada con HTTP 429.",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/c/ce/Vice-city-cover.jpg"
+  },
+  {
+    "id": "sanandreas",
+    "title": "Grand Theft Auto: San Andreas",
+    "date": "2004-10-26",
+    "year": 2004,
+    "releaseNote": "Norteamérica; Europa: 29 de octubre de 2004.",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "ports": [
+      "Windows y Xbox (2005)",
+      "Mac OS X (2010)",
+      "iOS y Android (2013); Windows Phone (2014)",
+      "Xbox 360 (2014) y PS3 (2015)",
+      "Reedición PS4; remasterización en 2021"
+    ],
+    "developer": "Rockstar North",
+    "setting": "San Andreas: Los Santos, San Fierro y Las Venturas, 1992",
+    "synopsis": "Carl Johnson regresa a Los Santos tras la muerte de su madre y se ve arrastrado a una lucha por su familia y su barrio.",
+    "cover": "assets/covers/sanandreas.jpg",
+    "era": "3D",
+    "facts": [
+      "Amplió el escenario a tres ciudades y extensas zonas rurales."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
+    "coverVerification": "Carátula identificada en metadatos de Wikipedia; carga remota sujeta a disponibilidad. Descarga local bloqueada con HTTP 429.",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/GTASABOX.jpg"
+  },
+  {
+    "id": "lcs",
+    "title": "Grand Theft Auto: Liberty City Stories",
+    "date": "2005-10-25",
+    "year": 2005,
+    "releaseNote": "Norteamérica; región PAL: 4 de noviembre de 2005.",
+    "platforms": [
+      "PSP"
+    ],
+    "ports": [
+      "PlayStation 2 (2006)",
+      "iOS (2015)",
+      "Android y Fire OS (2016)"
+    ],
+    "developer": "Rockstar Leeds y Rockstar North",
+    "setting": "Liberty City, 1998",
+    "synopsis": "Toni Cipriani regresa a la ciudad y recupera su posición dentro de la familia Leone.",
+    "cover": "assets/covers/lcs.jpg",
+    "era": "3D",
+    "facts": [
+      "Fue el primer GTA tridimensional desarrollado para una consola portátil."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Liberty_City_Stories"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Liberty_City_Stories",
+    "coverVerification": "Carátula identificada en metadatos de Wikipedia; carga remota sujeta a disponibilidad. Descarga local bloqueada con HTTP 429.",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/Grand_Theft_Auto_Liberty_City_Stories_box.jpg"
+  },
+  {
+    "id": "vcs",
+    "title": "Grand Theft Auto: Vice City Stories",
+    "date": "2006-10-31",
+    "year": 2006,
+    "releaseNote": "Norteamérica; calendario europeo escalonado en noviembre de 2006.",
+    "platforms": [
+      "PSP"
+    ],
+    "ports": [
+      "PlayStation 2 (2007)",
+      "PS3 mediante PS2 Classics (2013; distribución histórica)"
+    ],
+    "developer": "Rockstar Leeds y Rockstar North",
+    "setting": "Vice City, 1984",
+    "synopsis": "Victor Vance se introduce en el negocio criminal mientras intenta mantener a su familia.",
+    "cover": "assets/covers/vcs.jpg",
+    "era": "3D",
+    "facts": [
+      "Su historia precede en dos años a Vice City."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/GTA_Vice_City_Stories_PSP_boxart.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "coverVerification": "Reproducción de carátula publicada en Wikipedia; archivo secundario, derechos de Rockstar Games. No es una fotografía de un ejemplar físico."
+  },
+  {
+    "id": "gta4",
+    "title": "Grand Theft Auto IV",
+    "date": "2008-04-29",
+    "year": 2008,
+    "releaseNote": "Lanzamiento internacional inicial; algunas regiones tuvieron calendarios propios.",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "ports": [
+      "Windows (diciembre de 2008)",
+      "Xbox One y Series mediante retrocompatibilidad",
+      "Complete Edition para PC (2020)"
+    ],
+    "developer": "Rockstar North",
+    "setting": "Liberty City y Alderney, 2008",
+    "synopsis": "Niko Bellic llega a Estados Unidos buscando un nuevo comienzo, pero su pasado y las deudas de su primo lo persiguen.",
+    "cover": "assets/covers/gta4.jpg",
+    "era": "HD",
+    "facts": [
+      "Sus dos expansiones cuentan historias que se cruzan con la de Niko."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/Grand_Theft_Auto_IV_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "coverVerification": "Reproducción de carátula publicada en Wikipedia; archivo secundario, derechos de Rockstar Games. No es una fotografía de un ejemplar físico."
+  },
+  {
+    "id": "tlad",
+    "title": "Grand Theft Auto IV: The Lost and Damned",
+    "date": "2009-02-17",
+    "year": 2009,
+    "releaseNote": "Descarga mundial anunciada para Xbox LIVE.",
+    "platforms": [
+      "Xbox 360"
+    ],
+    "ports": [
+      "PlayStation 3 y Windows (2010)",
+      "Incluido en Episodes from Liberty City y GTA IV: Complete Edition"
+    ],
+    "developer": "Rockstar North",
+    "setting": "Liberty City y Alderney, 2008",
+    "synopsis": "Johnny Klebitz intenta mantener unida la banda de motoristas The Lost mientras crecen sus conflictos internos.",
+    "cover": "assets/covers/tlad.jpg",
+    "era": "HD",
+    "facts": [
+      "Primera expansión episódica de GTA IV."
+    ],
+    "sources": [
+      "https://ir.take2games.com/static-files/34cc360a-49a7-4960-b8ea-c6a9388db654",
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned"
+    ],
+    "verification": "Fecha y plataforma contrastadas con comunicado oficial de Take-Two; contexto en fuente secundaria.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned",
+    "coverVerification": "Carátula identificada en metadatos de Wikipedia; carga remota sujeta a disponibilidad. Descarga local bloqueada con HTTP 429.",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Grand_Theft_Auto_IV_coverart.jpg"
+  },
+  {
+    "id": "chinatown",
+    "title": "Grand Theft Auto: Chinatown Wars",
+    "date": "2009-03-17",
+    "year": 2009,
+    "releaseNote": "Norteamérica; Europa: 20 de marzo de 2009.",
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "ports": [
+      "PSP (2009)",
+      "iOS (2010)",
+      "Android y Fire OS (2014)"
+    ],
+    "developer": "Rockstar Leeds y Rockstar North",
+    "setting": "Liberty City, época contemporánea",
+    "synopsis": "Huang Lee llega a Liberty City con una reliquia familiar y acaba envuelto en la lucha de las tríadas.",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/75/ChinatownWars.jpg",
+    "era": "HD",
+    "facts": [
+      "La edición DS utiliza la pantalla táctil en sus minijuegos."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars",
+    "coverVerification": "Carátula identificada en metadatos de Wikipedia; carga remota sujeta a disponibilidad. Descarga local bloqueada con HTTP 429."
+  },
+  {
+    "id": "tbogt",
+    "title": "Grand Theft Auto: The Ballad of Gay Tony",
+    "date": "2009-10-29",
+    "year": 2009,
+    "releaseNote": "Xbox 360; PS3 y PC llegaron en abril de 2010.",
+    "platforms": [
+      "Xbox 360"
+    ],
+    "ports": [
+      "PlayStation 3 y Windows (2010)",
+      "Incluido en Episodes from Liberty City y GTA IV: Complete Edition"
+    ],
+    "developer": "Rockstar North",
+    "setting": "Liberty City, 2008",
+    "synopsis": "Luis Lopez intenta proteger los negocios y la vida de Tony Prince entre clubes nocturnos, deudas y bandas.",
+    "cover": "assets/covers/tbogt.jpg",
+    "era": "HD",
+    "facts": [
+      "Segunda expansión de GTA IV; su historia se cruza con las de Niko y Johnny."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony",
+    "coverOriginalUrl": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Ballad_of_Gay_Tony_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "coverVerification": "Reproducción de carátula publicada en Wikipedia; archivo secundario, derechos de Rockstar Games. No es una fotografía de un ejemplar físico."
+  },
+  {
+    "id": "gta5",
+    "title": "Grand Theft Auto V",
+    "date": "2013-09-17",
+    "year": 2013,
+    "releaseNote": "Lanzamiento internacional inicial; existen fechas regionales posteriores.",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "ports": [
+      "PlayStation 4 y Xbox One (18 de noviembre de 2014)",
+      "Windows (14 de abril de 2015)",
+      "PlayStation 5 y Xbox Series X|S (15 de marzo de 2022)",
+      "PC Enhanced (4 de marzo de 2025)"
+    ],
+    "developer": "Rockstar North",
+    "setting": "Los Santos y Blaine County, 2013",
+    "synopsis": "Michael, Franklin y Trevor unen sus vidas a través de atracos y deudas en el sur de San Andreas.",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "era": "HD",
+    "facts": [
+      "Permite alternar entre tres protagonistas."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+    "coverVerification": "Carátula identificada en metadatos de Wikipedia; carga remota sujeta a disponibilidad. Descarga local bloqueada con HTTP 429."
+  },
+  {
+    "id": "online",
+    "title": "Grand Theft Auto Online",
+    "date": "2013-10-01",
+    "year": 2013,
+    "releaseNote": "Inicio del servicio asociado a GTA V; su disponibilidad depende de plataforma.",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "ports": [
+      "PlayStation 4 y Xbox One (2014)",
+      "Windows (2015)",
+      "PlayStation 5 y Xbox Series X|S (2022; versión independiente)",
+      "PC Enhanced (2025)"
+    ],
+    "developer": "Rockstar North / Rockstar Games",
+    "setting": "Los Santos y Blaine County; escenarios adicionales mediante actualizaciones",
+    "synopsis": "Una identidad creada por el jugador participa en actividades, negocios y golpes en un mundo multijugador persistente.",
+    "cover": "assets/covers/online.jpg",
+    "era": "HD",
+    "facts": [
+      "Las versiones de PS3 y Xbox 360 cerraron en diciembre de 2021.",
+      "El catálogo no pretende cubrir todas las actualizaciones del servicio."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_Online"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional.",
+    "coverSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_Online",
+    "coverVerification": "Carátula identificada en metadatos de Wikipedia; carga remota sujeta a disponibilidad. Descarga local bloqueada con HTTP 429."
+  },
+  {
+    "id": "gta6",
+    "title": "Grand Theft Auto VI",
+    "date": "2026-11-19",
+    "year": 2026,
+    "releaseNote": "Fecha anunciada oficialmente; todavía no publicado en la fecha de recopilación (19 de octubre de 2026).",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "ports": [],
+    "developer": "Rockstar Games",
+    "setting": "Vice City y el estado de Leonida",
+    "synopsis": "Jason y Lucia quedan atrapados en una conspiración criminal después de que un golpe salga mal.",
+    "cover": "assets/covers/gta6.jpg",
+    "era": "HD",
+    "facts": [
+      "La fecha corresponde al anuncio vigente y puede cambiar."
+    ],
+    "sources": [
+      "https://www.rockstargames.com/VI"
+    ],
+    "verification": "Fuente oficial consultada el 19 de octubre de 2026."
+  },
+  {
+    "id": "episodes",
+    "title": "Grand Theft Auto: Episodes from Liberty City",
+    "date": "2009-10-29",
+    "year": 2009,
+    "releaseNote": "Primera edición Xbox 360; PS3/PC: 13 de abril de 2010 en Norteamérica.",
+    "platforms": [
+      "Xbox 360"
+    ],
+    "ports": [
+      "PlayStation 3 y Windows (abril de 2010)",
+      "Xbox One y Series mediante retrocompatibilidad"
+    ],
+    "developer": "Rockstar North",
+    "setting": "Liberty City y Alderney, 2008",
+    "synopsis": "Reúne The Lost and Damned y The Ballad of Gay Tony en una edición independiente.",
+    "cover": "assets/covers/eflc.jpg",
+    "era": "Recopilación",
+    "facts": [
+      "La recopilación física permite jugar los dos episodios sin el disco de GTA IV."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional."
+  },
+  {
+    "id": "definitive",
+    "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+    "date": "2021-11-11",
+    "year": 2021,
+    "releaseNote": "Lanzamiento digital; las ediciones físicas llegaron posteriormente.",
+    "platforms": [
+      "Windows",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X|S",
+      "Nintendo Switch"
+    ],
+    "ports": [
+      "iOS y Android (14 de diciembre de 2023)"
+    ],
+    "developer": "Grove Street Games; juegos originales: Rockstar North",
+    "setting": "Liberty City, Vice City y San Andreas",
+    "synopsis": "Tres clásicos remasterizados con cambios gráficos y de controles.",
+    "cover": "assets/covers/defediti.jpg",
+    "era": "Recopilación",
+    "facts": [
+      "Reúne GTA III, Vice City y San Andreas; no incluye Liberty City Stories ni Vice City Stories."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Trilogy_–_The_Definitive_Edition"
+    ],
+    "verification": "Fuente secundaria consultada; ficha histórica, no auditoría de cada edición regional."
+  }
+]
